@@ -1,5 +1,5 @@
 # MultiTouch JavaFX Software
-"CapitalAutos" is an online car showroom for car retailers and sellers in Pakistan. It has six pages for customers and visitors and a CMS for seller/admin to add,edit and delete data into the website.It is a mobile friendly website with separate pages built especially for mobile devices.
+"MultiTouch JavaFX Software" is developed for the students and armature developers alike. The system enables multiple people to work on same project at the same time also giving them facility to review their work done so far. The system comprises of five different projects the users can work on. It is designed to be run on capacitive sensing systems and /or touchable screens like ASUS etc.
 
 
 ## TECHNOLOGIES ##
